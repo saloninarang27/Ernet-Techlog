@@ -1,4 +1,3 @@
-# Ernet-Techlog
 # ERNET Internship Portfolio – 2025
 
 **Organization**: Education and Research Network of India (ERNET India)  
